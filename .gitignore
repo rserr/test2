@@ -1,5 +1,7 @@
 /node_modules
 /wk4Tute
+/.idea
 fakerTest.js
 mathOps.js
 mathOpsTest.js
+workspace.xml
